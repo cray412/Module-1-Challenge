@@ -30,6 +30,14 @@ Consolidated multiple occurances of formatting for benefit sections into one cla
 
 Consolidated multiple occurances of formatting for article sections into one class (.article-format)
 
+
+## Screenshot/Link
+
+![Refactoring](./assets/images/Refactoring_Screenshot.png)
+
+[Refactoring](https://cray412.github.io/Refactoring/)
+
+
 ## Credits
 
 N/A
